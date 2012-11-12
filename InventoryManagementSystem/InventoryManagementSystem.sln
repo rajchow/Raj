@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InventoryManagementSystem", "InventoryManagementSystem\InventoryManagementSystem.vcxproj", "{ED6EE1F8-9615-4D5C-B2C3-79872293A45A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestInventory", "..\..\TestInventory\TestInventory.vcxproj", "{D93F4A29-F98C-4936-AB1F-431171B9418C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6EE1F8-9615-4D5C-B2C3-79872293A45A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED6EE1F8-9615-4D5C-B2C3-79872293A45A}.Debug|Win32.Build.0 = Debug|Win32
+		{ED6EE1F8-9615-4D5C-B2C3-79872293A45A}.Release|Win32.ActiveCfg = Release|Win32
+		{ED6EE1F8-9615-4D5C-B2C3-79872293A45A}.Release|Win32.Build.0 = Release|Win32
+		{D93F4A29-F98C-4936-AB1F-431171B9418C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D93F4A29-F98C-4936-AB1F-431171B9418C}.Debug|Win32.Build.0 = Debug|Win32
+		{D93F4A29-F98C-4936-AB1F-431171B9418C}.Release|Win32.ActiveCfg = Release|Win32
+		{D93F4A29-F98C-4936-AB1F-431171B9418C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
