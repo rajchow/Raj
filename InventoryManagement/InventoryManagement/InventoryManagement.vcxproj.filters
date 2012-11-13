@@ -33,6 +33,9 @@
     <ClInclude Include="DoesNotExistException.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Receipt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Sales.cpp">
@@ -42,6 +45,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SalesSummary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Receipt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

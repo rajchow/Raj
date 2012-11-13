@@ -91,7 +91,7 @@
     <ClCompile Include="AddCategory.cpp" />
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="Category.cpp" />
-    <ClCompile Include="InventoryManagementSystem.cpp" />
+    <ClCompile Include="Main Menu.cpp" />
     <ClCompile Include="ModifyCategory.cpp" />
     <ClCompile Include="Product.cpp" />
     <ClCompile Include="Sales.cpp" />

@@ -83,12 +83,14 @@
   <ItemGroup>
     <ClInclude Include="AlreadyExistsException.h" />
     <ClInclude Include="DoesNotExistException.h" />
+    <ClInclude Include="Receipt.h" />
     <ClInclude Include="SalesSummary.h" />
     <ClInclude Include="MyForm.h" />
     <ClInclude Include="Sales.h" />
     <ClInclude Include="TableInterface.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Receipt.cpp" />
     <ClCompile Include="SalesSummary.cpp" />
     <ClCompile Include="MyForm.cpp" />
     <ClCompile Include="Sales.cpp" />
